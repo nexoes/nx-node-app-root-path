@@ -1,5 +1,5 @@
 {
-  "name": "app-root-path",
+  "name": "nx-app-root-path",
   "version": "1.2.1",
   "description": "Determine an app's root path from anywhere inside the app",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/inxilpro/node-app-root-path.git"
+    "url": "https://github.com/nexoes/nx-node-app-root-path.git"
   },
   "keywords": [
     "root",
@@ -24,11 +24,14 @@
     "app"
   ],
   "author": "Chris Morrell <http://cmorrell.com>",
+  "contributors": [
+    { "name": "Peter Andreas Moelgaard", "email": "github@petermolgaard.com"}
+  ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/inxilpro/node-app-root-path/issues"
+    "url": "https://github.com/nexoes/nx-node-app-root-path/issues"
   },
-  "homepage": "https://github.com/inxilpro/node-app-root-path",
+  "homepage": "https://github.com/nexoes/nx-node-app-root-path",
   "devDependencies": {
     "mocha": "^2.0.1",
     "coveralls": "^2.11.2",
